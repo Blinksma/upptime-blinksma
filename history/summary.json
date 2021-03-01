@@ -4,17 +4,19 @@
     "url": "https://watch.blinksma.eu",
     "icon": "https://favicons.githubusercontent.com/watch.blinksma.eu",
     "slug": "blinksma-watch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2111,
-    "timeDay": 1984,
-    "timeWeek": 2111,
-    "timeMonth": 2111,
-    "timeYear": 2111,
-    "dailyMinutesDown": {}
+    "time": 1978,
+    "timeDay": 1714,
+    "timeWeek": 1978,
+    "timeMonth": 1978,
+    "timeYear": 1978,
+    "dailyMinutesDown": {
+      "2021-03-01": 0
+    }
   }
 ]
