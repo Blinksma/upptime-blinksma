@@ -4,8 +4,10 @@ repo: upptime-blinksma # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Blinksma Watch
-    url: https://watch.blinksma.eu
+	- name: Blinksma Watch
+  	  url: https://watch.blinksma.eu
+	- name: Jeffrey Blinksma
+      url: https://jeffrey.blinksma.eu
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
